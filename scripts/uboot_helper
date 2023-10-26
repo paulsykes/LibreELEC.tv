@@ -151,6 +151,12 @@ devices = \
         'crust_config' : 'tanix_tx6_defconfig'
       },
     },
+    'H616' : {
+      'orangepi-zero2' : {
+        'dtb' : 'sun50i-h616-orangepi-zero2.dtb',
+        'config' : 'orangepi_zero2_defconfig',
+      },
+    },
     'R40' : {
       'bananapi-m2u' : {
         'dtb' : 'sun8i-r40-bananapi-m2-ultra.dtb',
